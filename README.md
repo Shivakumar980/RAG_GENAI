@@ -1,10 +1,6 @@
 # RAG_GENAI: Conversational RAG Chatbot
 
 A Retrieval Augmented Generation (RAG) Chatbot designed to answer user questions
-## Overview
-
-This application implements a conversational chatbot that uses the RAG (Retrieval Augmented Generation) approach to answer questions about FSU student finance. The system maintains conversation context to provide more relevant follow-up answers, uses a FAISS vector index for efficient similarity search, and includes persistence for session management.
-
 ## Features
 
 - **Conversation Context**: Maintains conversation history for more coherent responses to follow-up questions
